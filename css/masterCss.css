@@ -1,0 +1,33 @@
+body
+    {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: purple
+    }
+
+header h1
+    {
+    color: purple;
+    margin: 20px 0 20px 0;
+    }
+
+img{
+    height: 200px;
+    text-align: left;
+}
+
+figcaption{
+    font-size: .85em;
+}
+
+.productDescription {
+    margin: 20px 0 20px 0;
+    text-align: justify;
+}
+
+div.review {
+    padding: 10 px;
+    background-color: wheat;
+    margin: 20px 0 20px 0;
+}
+
+.indent {text-indent: 2em;}
